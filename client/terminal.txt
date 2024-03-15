@@ -1,0 +1,16 @@
+
+#client:
+
+ pnpm create vite@latest .
+ pnpm i moment 6pp 
+ pnpm add react-chartjs-2 chart.js                   https://www.npmjs.com/package/react-chartjs-2
+ pnpm i react-hot-toast                               https://www.npmjs.com/package/react-hot-toast
+ pnpm i react-helmet-async                            https://www.npmjs.com/package/react-helmet-async
+
+
+
+
+
+
+
+#server:
